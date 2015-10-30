@@ -1,0 +1,17 @@
+Lectura del sensor 0: 0
+Lectura del sensor 1: 0
+Lectura del sensor 2: 0
+Lectura del sensor 3: 0
+Lectura del sensor 0: 20
+Lectura del sensor 1: 9
+Lectura del sensor 2: 0
+Lectura del sensor 3: 3
+Lectura del sensor 0: 45
+Lectura del sensor 1: 33
+Lectura del sensor 2: 40
+Lectura del sensor 3: 40
+Central: Recibi valor critico 48 de 2
+Lectura del sensor 0: 4
+Lectura del sensor 1: 22
+Lectura del sensor 2: 48
+Lectura del sensor 3: 42
